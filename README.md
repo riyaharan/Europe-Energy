@@ -1,11 +1,19 @@
 # Europe-Energy_SentimentAnalysis
- emissions.
+In the wake of the Ukraine war, the issues of price and sufficient access to energy are main topics in Europe as of today. Europe is largely dependent on fossil fuels, not least Russian natural gas, and there are concerns about how energy needs can be secured in the long term.
+
+It is evident that European gas production is in decline. Several North Sea gas deposits are running dry, as are a number of gas fields in the Netherlands, leaving Europe dependent on gas imports, primarily from Russia and Norway.
+
+The aim is to unfold the history of utilisation and generation of various energy sources by European countries to understand how they've hit crisis in 2022. Based on the available information, Russia is fulfilling its long-term contracts with European counterparts – but its exports to Europe are down from their 2019 level.
+
+So, the below analysis defines:
+
+Keeping in mind about climate change being the other biggest challenge caused by the extreme utilization of fossil fuels that cause greenhouse gas emissions. I start by analysing the amount of CO2 and greenhouse gas emissions by European countries and on EU level over a time span to see if there have been any fluctuations in the concentrations of these emissions. Further, I try to examine if electricity generation is the biggest factor of these countries emitting highest emissions
 
 To explore fossil fuels supply, demand, and usage - focusing on how largest fossil fuel consumer countries produce/ utilize coal, oil, gas and inspect if they really do have a high fossil fuel demand that they themselves can't fulfill.
 
 Inspecting two main topics:
 
-From (2), it was found that the gas production in these top 5 fossil fuel users/ producer countries is very low with some countries dropping to extreme low levels. To understand whether its the same condition on EU level, we do further analysis.
+From a research, it was found that the gas production in these top 5 fossil fuel users/ producer countries is very low with some countries dropping to extreme low levels. To understand whether its the same condition on EU level, we do further analysis.
 Understanding Russia's production and consumption of fossil fuels to compare it with Europe's to cross-check and understand Russia's influence and dependency on Europe for these fuels.
 Twitter Sentiment analysis: captures what's being said about Europe energy and the crisis it's facing in 2022. Sentiment analysis helps in understading how the world feels about this by determining whether the sentiment conveyed in the tweets is positive, negative or neutral.
 
